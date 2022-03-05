@@ -1,5 +1,5 @@
 {
-    "token": "OTQ4NjcyNTcyNjg0MzcwMDEw.Yh_OLg._FkfFb9XZDJcSsj0UL5Npi-w8dE",
+    "token": "process.env.TOKEN",
     "adminIDs": ["209064907168153601"],
     "guildID": "948672419181248593"
 }
