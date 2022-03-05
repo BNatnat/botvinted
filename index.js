@@ -159,10 +159,10 @@ client.on('ready', () => {
     setInterval(() => {
         idx++;
         donate();
-    }, 20000);
+    }, 120_000);
 
     sync();
-    setInterval(sync, 30000);
+    setInterval(sync, 35000);
 
     const { version } = require('./package.json');
     client.user.setActivity(`Vinted BOT | v${version}`);
